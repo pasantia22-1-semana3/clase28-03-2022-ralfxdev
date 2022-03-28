@@ -1,0 +1,110 @@
+[
+    {
+        "type": "total",
+        "2016": {"ambosSexos": 486391, "hombres": 298734, "mujeres": 76104, "ignorados": 111553},
+        "2017": {"ambosSexos": 502294, "hombres": 293973, "mujeres": 77663, "ignorados": 130658},
+        "2018": {"ambosSexos": 389539, "hombres": 220805, "mujeres": 54620, "ignorados": 114114},
+        "2019": {"ambosSexos": 503306, "hombres": 291931, "mujeres": 78391, "ignorados": 132984},
+        "2020": {"ambosSexos": 427668, "hombres": 263260, "mujeres": 72552, "ignorados": 91856}
+    },
+
+    {
+        "type": "amenazas",
+        "2016": {"ambosSexos": 72164, "hombres": 43940, "mujeres": 24931, "ignorados": 3293},
+        "2017": {"ambosSexos": 73369, "hombres": 44530, "mujeres": 25160, "ignorados": 3679},
+        "2018": {"ambosSexos": 53775, "hombres": 31845, "mujeres": 18161, "ignorados": 3769},
+        "2019": {"ambosSexos": 78487, "hombres": 46596, "mujeres": 26271, "ignorados": 5620},
+        "2020": {"ambosSexos": 73183, "hombres": 44434, "mujeres": 24647, "ignorados": 4102}
+    },
+
+    {
+        "type": "hurto",
+        "2016": {"ambosSexos": 29858, "hombres": 11567, "mujeres": 1849, "ignorados": 16442},
+        "2017": {"ambosSexos": 33879, "hombres": 12043, "mujeres": 1849, "ignorados": 19987},
+        "2018": {"ambosSexos": 28516, "hombres": 9058, "mujeres": 1394, "ignorados": 18064},
+        "2019": {"ambosSexos": 29731, "hombres": 9021, "mujeres": 1630, "ignorados": 19080},
+        "2020": {"ambosSexos": 18320, "hombres": 7109, "mujeres": 1512, "ignorados": 9699}
+    },
+
+    {
+        "type": "robo de equipo",
+        "2016": {"ambosSexos": 25387, "hombres": 6416, "mujeres": 334, "ignorados": 18637},
+        "2017": {"ambosSexos": 31699, "hombres": 5193, "mujeres": 315, "ignorados": 26191},
+        "2018": {"ambosSexos": 26944, "hombres": 5341, "mujeres": 307, "ignorados": 21296},
+        "2019": {"ambosSexos": 24605, "hombres": 5492, "mujeres": 383, "ignorados": 18730},
+        "2020": {"ambosSexos": 12804, "hombres": 3668, "mujeres": 344, "ignorados": 8792}
+    },
+
+    {
+        "type": "lesiones leves",
+        "2016": {"ambosSexos": 28084, "hombres": 16096, "mujeres": 10182, "ignorados": 1806},
+        "2017": {"ambosSexos": 28071, "hombres": 15780, "mujeres": 10200, "ignorados": 2091},
+        "2018": {"ambosSexos": 19583, "hombres": 10452, "mujeres": 7138, "ignorados": 1993},
+        "2019": {"ambosSexos": 28985, "hombres": 15667, "mujeres": 10946, "ignorados": 2372},
+        "2020": {"ambosSexos": 25949, "hombres": 14306, "mujeres": 9939, "ignorados": 1704}
+    },
+
+    {
+        "type": "robo agravado",
+        "2016": {"ambosSexos": 24683, "hombres": 10116, "mujeres": 556, "ignorados": 14011},
+        "2017": {"ambosSexos": 24185, "hombres": 8485, "mujeres": 439, "ignorados": 15261},
+        "2018": {"ambosSexos": 19413, "hombres": 6832, "mujeres": 313, "ignorados": 12268},
+        "2019": {"ambosSexos": 19778, "hombres": 7318, "mujeres": 428, "ignorados": 12032},
+        "2020": {"ambosSexos": 15221, "hombres": 5968, "mujeres": 350, "ignorados": 8903}
+    },
+
+    {
+        "type": "hurto agravado",
+        "2016": {"ambosSexos": 19363, "hombres": 7519, "mujeres": 1172, "ignorados": 10672},
+        "2017": {"ambosSexos": 18235, "hombres": 6002, "mujeres": 958, "ignorados": 11275},
+        "2018": {"ambosSexos": 15155, "hombres": 4512, "mujeres": 659, "ignorados": 9984},
+        "2019": {"ambosSexos": 15639, "hombres": 5618, "mujeres": 922, "ignorados": 9099},
+        "2020": {"ambosSexos": 12466, "hombres": 4894, "mujeres": 818, "ignorados": 6754}
+    },
+
+    {
+        "type": "robo",
+        "2016": {"ambosSexos": 21568, "hombres": 8487, "mujeres": 884, "ignorados": 12197},
+        "2017": {"ambosSexos": 19357, "hombres": 6687, "mujeres": 638, "ignorados": 12032},
+        "2018": {"ambosSexos": 14123, "hombres": 4685, "mujeres": 468, "ignorados": 8970},
+        "2019": {"ambosSexos": 15223, "hombres": 4818, "mujeres": 586, "ignorados": 9819},
+        "2020": {"ambosSexos": 9983, "hombres": 3510, "mujeres": 549, "ignorados": 5924}
+    },
+
+    {
+        "type": "lesiones culposas",
+        "2016": {"ambosSexos": 12533, "hombres": 9117, "mujeres": 714, "ignorados": 2702},
+        "2017": {"ambosSexos": 12387, "hombres": 8901, "mujeres": 756, "ignorados": 2730},
+        "2018": {"ambosSexos": 10973, "hombres": 7484, "mujeres": 681, "ignorados": 2808},
+        "2019": {"ambosSexos": 13162, "hombres": 9102, "mujeres": 896, "ignorados": 3164},
+        "2020": {"ambosSexos": 10050, "hombres": 7189, "mujeres": 607, "ignorados": 2254}
+    },
+
+    {
+        "type": "extorsion",
+        "2016": {"ambosSexos": 8382, "hombres": 4625, "mujeres": 826, "ignorados": 2931},
+        "2017": {"ambosSexos": 9652, "hombres": 4407, "mujeres": 1086, "ignorados": 4159},
+        "2018": {"ambosSexos": 8870, "hombres": 3694, "mujeres": 490, "ignorados": 4686},
+        "2019": {"ambosSexos": 17261, "hombres": 7777, "mujeres": 844, "ignorados": 8640},
+        "2020": {"ambosSexos": 13993, "hombres": 6166, "mujeres": 551, "ignorados": 7276}
+    },
+
+    {
+        "type": "coaccion",
+        "2016": {"ambosSexos": 8035, "hombres": 5442, "mujeres": 1993, "ignorados": 600},
+        "2017": {"ambosSexos": 7917, "hombres": 5342, "mujeres": 1964, "ignorados": 611},
+        "2018": {"ambosSexos": 5081, "hombres": 3093, "mujeres": 1264, "ignorados": 724},
+        "2019": {"ambosSexos": 8766, "hombres": 5614, "mujeres": 2168, "ignorados": 984},
+        "2020": {"ambosSexos": 6604, "hombres": 4270, "mujeres": 1723, "ignorados": 611}
+    },
+
+    {
+        "type": "otros",
+        "2016": {"ambosSexos": 236334, "hombres": 175409, "mujeres": 32663, "ignorados": 28262},
+        "2017": {"ambosSexos": 243543, "hombres": 176603, "mujeres": 34298, "ignorados": 32642},
+        "2018": {"ambosSexos": 187106, "hombres": 133809, "mujeres": 23745, "ignorados": 29552},
+        "2019": {"ambosSexos": 251669, "hombres": 174908, "mujeres": 33317, "ignorados": 43444},
+        "2020": {"ambosSexos": 229095, "hombres": 161746, "mujeres": 31512, "ignorados": 35837}
+    }
+    
+]

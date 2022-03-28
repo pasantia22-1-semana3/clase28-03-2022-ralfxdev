@@ -1,0 +1,9 @@
+#Test de la API
+
+GET http://localhost:5000/api/v1/home
+
+### Get All Estadisticas
+GET http://localhost:5000/api/v1/estadisticagt
+
+### Get One Estadistica
+GET http://localhost:5000/api/v1/estadisticagt/amenazas
